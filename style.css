@@ -1,0 +1,46 @@
+body {
+    align-content: center;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+
+    display: grid;
+    justify-content: center;
+}
+
+.section-style {
+
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+#hills {
+    height: 400px;
+    width: 600px;
+    padding: 20px;
+}
+
+#mountain {
+    height: 400px;
+    width: 600px;
+    padding: 20px;
+}
+
+#jungle {
+    height: 400px;
+    width: 600px;
+    padding: 20px;
+}
+
+#forest {
+    height: 400px;
+    width: 600px;
+    padding: 20px;
+}
